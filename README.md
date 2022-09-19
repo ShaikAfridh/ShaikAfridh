@@ -1,4 +1,4 @@
-width="40" height="40"/> </a> </p><h1 align="center">Hi 👋, I'm Afridi Shaik</h1>
+</a> </p><h1 align="center">Hi 👋, I'm Afridi Shaik</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/3f8bd37028526e0223e5fd780a318360.gif">
 
